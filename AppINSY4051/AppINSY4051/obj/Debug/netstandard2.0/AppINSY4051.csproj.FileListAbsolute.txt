@@ -1,0 +1,17 @@
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\bin\Debug\netstandard2.0\AppINSY4051.deps.json
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\bin\Debug\netstandard2.0\AppINSY4051.dll
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\bin\Debug\netstandard2.0\ref\AppINSY4051.dll
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\bin\Debug\netstandard2.0\AppINSY4051.pdb
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\AppINSY4051.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\AppINSY4051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\AppINSY4051.AssemblyInfoInputs.cache
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\AppINSY4051.AssemblyInfo.cs
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\AppINSY4051.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\AppINSY4051.dll
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\ref\AppINSY4051.dll
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\AppINSY4051.pdb
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\View\AboutUsView.xaml.g.cs
+C:\Users\matth\OneDrive\Documents\GitHub\AppINSY4051\AppINSY4051\AppINSY4051\obj\Debug\netstandard2.0\View\HomeView.xaml.g.cs
