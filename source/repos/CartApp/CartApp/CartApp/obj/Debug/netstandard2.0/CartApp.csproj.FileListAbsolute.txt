@@ -1,0 +1,16 @@
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\CartApp.csproj.AssemblyReference.cache
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\CartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\View\CategoryView.xaml.g.cs
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\CartApp.AssemblyInfoInputs.cache
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\CartApp.AssemblyInfo.cs
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\CartApp.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\bin\Debug\netstandard2.0\CartApp.deps.json
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\bin\Debug\netstandard2.0\CartApp.dll
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\bin\Debug\netstandard2.0\ref\CartApp.dll
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\bin\Debug\netstandard2.0\CartApp.pdb
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\CartApp.dll
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\ref\CartApp.dll
+C:\Users\Samuel Adams\source\repos\CartApp\CartApp\CartApp\obj\Debug\netstandard2.0\CartApp.pdb

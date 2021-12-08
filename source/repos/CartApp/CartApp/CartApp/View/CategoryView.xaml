@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModel="clr-namespace:CartApp.ViewModel"
+             x:Class="CartApp.View.CategoryView">
+	<ContentPage.BindingContext>
+		<ViewModel:CategoryViewModel/>
+	</ContentPage.BindingContext>
+    <StackLayout Margin="50">
+        <CollectionView x:Name="ProductList" ItemsSource="{Binding BooksCategory.Products}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding SKU}"/>
+                        <Label Text="{Binding Name}"/>
+                        <Image Source="{Binding ImageSource}" HeightRequest="100"/>
+                        <Button Text="Add to Cart" Command="{Binding Source={x:Reference ProductList}, Path=BindingContext.AddToCartCommand}" CommandParameter="{Binding Name}" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        
+        <CollectionView ItemsSource="{Binding CartItems}">
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <StackLayout>
+                        <Label Text="{Binding}" />
+                    </StackLayout>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>
