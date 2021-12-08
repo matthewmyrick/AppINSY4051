@@ -20,6 +20,7 @@ namespace AppINSY4051.ViewModel
 
         private async void GoToAboutUs()
         {
+            // there is an AboutUsViewModel(string message) Constructor as well. We can send 
             AboutUsViewModel aboutVM = new AboutUsViewModel();
             AboutUsView aboutV = new AboutUsView();
             aboutV.BindingContext = aboutVM;

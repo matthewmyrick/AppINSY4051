@@ -10,7 +10,7 @@
 
     <StackLayout>
         <Label Text="Welcome to our app" FontSize="Header" />
-        <Button Text="Click me!!!!" Command="{Binding GoToAboutUsCommand}"/>
+        <Button Text="Sam Is the best" Command="{Binding GoToAboutUsCommand}"/>
     </StackLayout>
     
 </ContentPage>
