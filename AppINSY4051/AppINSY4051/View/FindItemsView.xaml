@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppINSY4051.View.FindItemsView",
+             Title="Explore Prodcuts">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Here you will find items available for purchase."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <ListView x:Name="EmployeeView"
+                ItemsSource="{Binding Employees}">
+            <ListView.ItemTemplate>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

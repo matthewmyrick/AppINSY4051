@@ -11,10 +11,14 @@ namespace AppINSY4051.ViewModel
     {
         // property, constructur and method 
         public ICommand GoToAboutUsCommand { get; }
+        public ICommand GoToFindItemsCommand { get; }
+        public ICommand GoToCheckoutCommand { get; }
 
         public HomeViewModel()
         {
             GoToAboutUsCommand = new Command(GoToAboutUs);
+            GoToFindItemsCommand = new Command(GoToFindItems);
+            GoToCheckoutCommand = new Command(GoToCheckout);
         }
 
 
@@ -25,6 +29,22 @@ namespace AppINSY4051.ViewModel
             AboutUsView aboutV = new AboutUsView();
             aboutV.BindingContext = aboutVM;
             await Application.Current.MainPage.Navigation.PushAsync(aboutV);
+        }
+
+        private async void GoToFindItems()
+        {
+            FindItemsViewModel findVM = new FindItemsViewModel();
+            FindItemsView findV = new FindItemsView();
+            findV.BindingContext = findVM;
+            await Application.Current.MainPage.Navigation.PushAsync(findV);
+        }
+
+        private async void GoToCheckout()
+        {
+            CheckoutViewModel checkoutVM = new CheckoutViewModel();
+            CheckoutView checkoutV = new CheckoutView();
+            checkoutV.BindingContext = checkoutVM;
+            await Application.Current.MainPage.Navigation.PushAsync(checkoutV);
         }
     }
 }

@@ -9,7 +9,7 @@ namespace AppINSY4051.ViewModel
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
-        public void OnPrepertyChanged(string propertyName)
+        public void OnPropertyChanged(string propertyName)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }

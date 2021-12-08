@@ -11,6 +11,8 @@
     <StackLayout>
         <Label Text="Welcome to our app" FontSize="Header" />
         <Button Text="Sam Is the best" Command="{Binding GoToAboutUsCommand}"/>
+        <Button Text="Find Items" Command="{Binding GoToFindItemsCommand}"/>
+        <Button Text="Checkout" Command="{Binding GoToCheckoutCommand}"/>
     </StackLayout>
     
 </ContentPage>
