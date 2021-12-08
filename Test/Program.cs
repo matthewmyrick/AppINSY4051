@@ -37,7 +37,7 @@ namespace Test
                     // add the values to db dictionary and convert number to double
                     db.Add(values[0], double.Parse(values[1]));
                 }
-
+  
                 foreach (KeyValuePair<string, double> item in db)
                 {
                     Console.WriteLine(item.Key);
