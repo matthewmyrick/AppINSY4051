@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UlIbCQ/U6WN5AF2j0citb4ruBUKwqZCy72VbFHDny2q6LBDZEan33h5UiPXjV1hbLnlCXVRe+sYyCF02DWB9aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuel Adams\\Git Shit\\AppINSY4051\\AppINSY4051\\AppINSY4051.iOS\\AppINSY4051.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel Adams\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

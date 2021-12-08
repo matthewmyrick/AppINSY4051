@@ -1,0 +1,14 @@
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Samuel Adams\Git Shit\AppINSY4051\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
