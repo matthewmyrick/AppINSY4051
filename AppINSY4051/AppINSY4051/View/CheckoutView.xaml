@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewmodel="clr-namespace:AppINSY4051.ViewModel" x:DataType="viewmodel:CheckoutViewModel"
              x:Class="AppINSY4051.View.CheckoutView">
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Here you will find your items for checkout."
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Button Text="Complete Checkout" Command="{Binding CompleteCheckoutCommand}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using AppINSY4051.Model;
 
 namespace AppINSY4051.ViewModel
 {
-    class FindItemsViewModel : BaseViewModel
+   public class FindItemsViewModel : BaseViewModel
     {
+
     }
 }

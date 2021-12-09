@@ -1,7 +1,10 @@
-﻿using System;
+﻿using AppINSY4051.View;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
+using System.Windows.Input;
+using Xamarin.Forms;
 
 namespace AppINSY4051.ViewModel
 {
@@ -13,5 +16,7 @@ namespace AppINSY4051.ViewModel
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
+
     }
 }
+

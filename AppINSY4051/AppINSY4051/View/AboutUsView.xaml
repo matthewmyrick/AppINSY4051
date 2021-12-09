@@ -2,8 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppINSY4051.View.AboutUsView">
-    <StackLayout>
-        <Label Text="About Us" FontSize="Header"/>
-        <Label Text="{Binding MessageFromBeyond}"/>
+    <StackLayout Padding="50">
+        <Label Text="About Us" FontSize="Header" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand"/>
+        <Label Text="GoPuff is a delivery service that gets you the things you need; food, drinks, over-the-counter medications, and general grocery items to you in a safe and timely manner." FontSize="Large" VerticalOptions="StartAndExpand" HorizontalOptions="Center" HorizontalTextAlignment="Center"/>
+        <Label Text="Cofounders Rafael Ilishayev and Yakir Gola were sophomores at Drexel University in Philly when they decided that stocking their college townhouse with snacks and essentials was taking too much time and too many trips to the store on top of balancing school, work, friends and family." FontSize="Medium" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center"/>
+        <Label Text="They spent all night drafting mock-ups of the app on the back of their class notes. Three months later, they were delivering those same convenience items from the back of their Plymouth Voyager around campus." FontSize="Medium" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center"/>
+        <Label Text="The service caught on, the name stuck, and 8 years, 500+ micro-fulfillment centers, BevMo! and Liquor Barn stores, and thousands of employees later, we're delivering to customers in more than 1,000 cities." FontSize="Large" HorizontalOptions="End" VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" />
     </StackLayout>
 </ContentPage>

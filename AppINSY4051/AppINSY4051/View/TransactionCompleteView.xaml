@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewmodel="clr-namespace:AppINSY4051.ViewModel" x:DataType="viewmodel:TransactionCompleteViewModel"
+             x:Class="AppINSY4051.View.TransactionCompleteView">
+
+    <ContentPage.BindingContext>
+        <viewmodel:TransactionCompleteViewModel/>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Thank you for shopping with GoPuff!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Your driver today is:" />
+            <Label Text="{Binding DriverNames}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

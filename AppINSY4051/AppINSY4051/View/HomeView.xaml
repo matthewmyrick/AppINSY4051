@@ -9,8 +9,7 @@
 	</ContentPage.BindingContext>
 
     <StackLayout>
-        <Label Text="Welcome to our app" FontSize="Header" />
-        <Button Text="Sam Is the best" Command="{Binding GoToAboutUsCommand}"/>
+        <Image Source="https://upload.wikimedia.org/wikipedia/en/thumb/7/73/GoPuff_logo.svg/1200px-GoPuff_logo.svg.png" HeightRequest="100"/>
         <Button Text="Find Items" Command="{Binding GoToFindItemsCommand}"/>
         <Button Text="Checkout" Command="{Binding GoToCheckoutCommand}"/>
     </StackLayout>
